@@ -108,6 +108,8 @@ class _MyHomePageState extends State<MyHomePage> {
       floatingActionButton: FloatingActionButton(
         onPressed: (){
           print("Master Branch"); // Master Branch
+          print("chatFeature Branch"); // ChatFeature Branch
+          print("Master Branch"); // Master Branch
           print("chatFeature Branch"); // Chat Feature Branch
           print("storiesFeature Branch"); // Stories Feature Branch
         },
